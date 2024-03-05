@@ -2,7 +2,7 @@
 namespace Group7
 {
 	public class car
-	{
+    {
 		public string CarModel;
 		public int CarNumber;
 	public string getCarModel()
@@ -13,6 +13,5 @@ namespace Group7
 		{
 			return this.CarNumber;
 		}
-	}
+    }
 }
-
